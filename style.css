@@ -1,0 +1,62 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #efc998;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+#box{
+    padding: 50px;
+    margin: 40px;
+    background-color: #FFFFF0;
+}
+
+.titolo-homepage{
+    text-align: center;
+    color: gray;
+}
+
+.logo-homepage{
+    max-width: 100px;
+    margin-left: 30px;
+}
+
+.bandiera-homepage{
+    max-width: 150px;
+    margin-right: 30px;
+}
+
+#cambio-colore{
+    margin-left: 30px;
+    border-width: 0px;
+    background-color: transparent;
+    padding: 0px;
+    text-decoration: underline;
+}
+
+#testo-home{
+    margin: 30px;
+}
+
+.pulsanti{
+    padding: 10px;
+    border-radius: 40px;
+    background-color: #000080;
+    color:beige;
+    text-decoration: none;
+}
+
+.menu{
+    margin-left: 30px;
+}
+
+.foto-ristoranti{
+    max-height: 350px;
+}
+
+.suggerimenti{
+    color: black;
+}
